@@ -88,5 +88,9 @@ class Autoload extends AutoloadConfig
      *
      * @var list<string>
      */
+<<<<<<< HEAD
     public $helpers = ['jwt'];
+=======
+    public $helpers = ['form', 'url', 'jwt_helper'];
+>>>>>>> 3c9707526f6e37fc5130ad8f2fb6009dc93cc25c
 }

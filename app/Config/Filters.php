@@ -34,7 +34,10 @@ class Filters extends BaseFilters
         'forcehttps'    => ForceHTTPS::class,
         'pagecache'     => PageCache::class,
         'performance'   => PerformanceMetrics::class,
+<<<<<<< HEAD
         'jwt'           => \App\Filters\JWTFilter::class,
+=======
+>>>>>>> 3c9707526f6e37fc5130ad8f2fb6009dc93cc25c
     ];
 
     /**
